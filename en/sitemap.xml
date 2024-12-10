@@ -20,15 +20,6 @@
                 href="https://cpsb12345.github.io/"
                 />
   </url><url>
-    <loc>https://cpsb12345.github.io/p/helloworld/</loc>
-    <lastmod>2024-12-10T23:22:00+08:00</lastmod>
-  </url><url>
-    <loc>https://cpsb12345.github.io/posts/helloworld/</loc>
-    <lastmod>2024-12-10T23:22:00+08:00</lastmod>
-  </url><url>
-    <loc>https://cpsb12345.github.io/posts/</loc>
-    <lastmod>2024-12-10T23:22:00+08:00</lastmod>
-  </url><url>
     <loc>https://cpsb12345.github.io/post/</loc>
     <lastmod>2024-12-10T23:22:00+08:00</lastmod>
     <xhtml:link
@@ -46,6 +37,9 @@
                 hreflang="en"
                 href="https://cpsb12345.github.io/post/"
                 />
+  </url><url>
+    <loc>https://cpsb12345.github.io/p/spi%E9%80%9A%E8%AE%AF%E4%BB%8E%E8%B0%83%E8%AF%95%E9%9B%B7%E8%BE%BE%E6%A8%A1%E5%9D%97%E5%85%A5%E6%89%8B/</loc>
+    <lastmod>2024-12-10T23:22:00+08:00</lastmod>
   </url><url>
     <loc>https://cpsb12345.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
