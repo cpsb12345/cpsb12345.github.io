@@ -37,6 +37,8 @@
 	
 	
 &gt;&lt;/p&gt;
+&lt;p&gt;spi每次通讯都需要一发一收，即使读取也需要先发对应比特的长度，来获取从机的数据&lt;/p&gt;
+&lt;p&gt;12位数据宽度代表啥呢····&lt;/p&gt;
 </description>
         </item>
         <item>
